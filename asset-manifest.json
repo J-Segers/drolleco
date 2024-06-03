@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/drolleco/static/css/main.26a5ac5d.css",
+    "main.js": "/drolleco/static/js/main.a2b15a2c.js",
+    "static/js/453.f29e1b10.chunk.js": "/drolleco/static/js/453.f29e1b10.chunk.js",
+    "static/media/AdobeStock_214508643.jpeg": "/drolleco/static/media/AdobeStock_214508643.d8dc26732c7400ddc5d3.jpeg",
+    "static/media/image (2).png": "/drolleco/static/media/image (2).298fe21a612f7c1cb55a.png",
+    "static/media/cart-icon-28356.png": "/drolleco/static/media/cart-icon-28356.347e88213ac29cf82d29.png",
+    "static/media/Sarvet_Drolleco_Valkoinen.png": "/drolleco/static/media/Sarvet_Drolleco_Valkoinen.417346c7b018d22189fd.png",
+    "static/media/Sarvet_Drolleco_Musta_1.png": "/drolleco/static/media/Sarvet_Drolleco_Musta_1.fbfa87504b0acd4068b5.png",
+    "index.html": "/drolleco/index.html",
+    "main.26a5ac5d.css.map": "/drolleco/static/css/main.26a5ac5d.css.map",
+    "main.a2b15a2c.js.map": "/drolleco/static/js/main.a2b15a2c.js.map",
+    "453.f29e1b10.chunk.js.map": "/drolleco/static/js/453.f29e1b10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26a5ac5d.css",
+    "static/js/main.a2b15a2c.js"
+  ]
+}
