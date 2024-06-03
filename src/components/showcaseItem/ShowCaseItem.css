@@ -1,0 +1,32 @@
+.showCaseContainer1, .showCaseContainer2 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap ;
+}
+
+.showCaseItem {
+        width: 400px;
+        aspect-ratio: auto 1 / 1;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.showCaseItem img {
+    object-fit:cover;
+}
+
+@media screen and (min-width: 401px) {
+    .showCaseContainer1 .showCaseItem {
+        width: calc(100% / 3);
+    }
+    
+    .showCaseContainer2 .showCaseItem {
+        width: 50%;
+    }
+    
+}
