@@ -1,0 +1,33 @@
+.menu {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding: 16px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+#menu-logo {
+    width: 70px;
+    height: 40px;
+    object-fit:cover;
+}
+
+.scrolled {
+    background-color: rgba(255, 255, 255, 1);
+
+    transition: background-color ease-in-out .5s;
+}
+
+.scrolled > img, .scrolled > #burgerBtn{
+    filter: invert();
+    transition: filter .5s ease-in-out .5s;
+}
+
+.top {
+    background-color: rgba(255, 255, 255, 0);
+
+    transition: background-color ease-in-out .5s;
+}
