@@ -1,0 +1,20 @@
+.shop-items {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    
+}
+
+.item {
+    width: 200px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item img {
+    width: inherit;
+    object-fit: cover;
+}
+
