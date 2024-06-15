@@ -10,18 +10,18 @@ function App() {
     <div className="App">
       <Menu />
       <Hero />
-      <div className="showCaseContainer">
+      <div className="ShowCaseContainer">
         <ShowCaseItem />
         <ShowCaseItem />
         <ShowCaseItem />
       </div>
       <CompanyMotto />
-      <div className="showCaseContainer">
+      <div className="ShowCaseContainer">
         <ShowCaseItem />
         <ShowCaseItem />
         <ShowCaseItem />
       </div>
-      <div className="shop-items">
+      <div className="ShopItems">
         <ShopItem />
         <ShopItem />
         <ShopItem />

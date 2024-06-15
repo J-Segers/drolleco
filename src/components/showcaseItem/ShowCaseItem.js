@@ -4,7 +4,7 @@ import placeholder from "../../assets/image (2).png";
 
 function ShowCaseItem() {
     return ( 
-        <div className="showCaseItem">
+        <div className="ShowCaseItem">
             <img src={placeholder} alt="" />
         </div>
      );

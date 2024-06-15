@@ -1,14 +1,16 @@
-.showCaseContainer {
+.ShowCaseContainer {
     width: 100%;
     height: auto;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap ;
 }
 
-.showCaseItem {
+.ShowCaseItem {
         width: 400px;
+        height: 400px;
         aspect-ratio: auto 1 / 1;
         overflow: hidden;
         display: flex;
@@ -16,21 +18,27 @@
         align-items: center;
 }
 
-.showCaseItem img {
-    object-fit:cover;
+.ShowCaseItem img {
+    transform: scale(1);
+    transition: none;
+    object-fit: cover;
 }
 
-@media screen and (min-width: 401px) {
-    .showCaseContainer .showCaseItem {
+@media screen and (min-width: 600px) {
+    .ShowCaseContainer {
+        flex-direction: row;
+    }
+
+    .ShowCaseContainer .ShowCaseItem {
         width: calc(100% / 3);
     }
     
-    .showCaseItem img {
+    .ShowCaseItem img {
         transform: scale(100%);
         transition: transform .5s ease-in-out;
     }
     
-    .showCaseItem img:hover {
+    .ShowCaseItem img:hover {
         transform: scale(110%);
         transition: transform .5s ease-in-out;
     }

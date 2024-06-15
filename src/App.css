@@ -7,3 +7,20 @@
     flex-wrap: wrap;
     background-color: #f1f1f1;
 }
+
+.ShopItems {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    overflow: auto;
+}
+
+@media screen and (min-width: 600px) {
+  
+    .ShopItems {
+        flex-direction: row;
+    }
+    
+}
