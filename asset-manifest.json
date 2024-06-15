@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/drolleco/static/css/main.26a5ac5d.css",
-    "main.js": "/drolleco/static/js/main.a2b15a2c.js",
+    "main.css": "/drolleco/static/css/main.8f90946a.css",
+    "main.js": "/drolleco/static/js/main.24b92acb.js",
     "static/js/453.f29e1b10.chunk.js": "/drolleco/static/js/453.f29e1b10.chunk.js",
     "static/media/AdobeStock_214508643.jpeg": "/drolleco/static/media/AdobeStock_214508643.d8dc26732c7400ddc5d3.jpeg",
     "static/media/image (2).png": "/drolleco/static/media/image (2).298fe21a612f7c1cb55a.png",
+    "static/media/classic-dad-hat-black-front-660acfc9c5fb4 copy.png": "/drolleco/static/media/classic-dad-hat-black-front-660acfc9c5fb4 copy.729b19be8055dd8947eb.png",
     "static/media/cart-icon-28356.png": "/drolleco/static/media/cart-icon-28356.347e88213ac29cf82d29.png",
     "static/media/Sarvet_Drolleco_Valkoinen.png": "/drolleco/static/media/Sarvet_Drolleco_Valkoinen.417346c7b018d22189fd.png",
     "static/media/Sarvet_Drolleco_Musta_1.png": "/drolleco/static/media/Sarvet_Drolleco_Musta_1.fbfa87504b0acd4068b5.png",
     "index.html": "/drolleco/index.html",
-    "main.26a5ac5d.css.map": "/drolleco/static/css/main.26a5ac5d.css.map",
-    "main.a2b15a2c.js.map": "/drolleco/static/js/main.a2b15a2c.js.map",
+    "main.8f90946a.css.map": "/drolleco/static/css/main.8f90946a.css.map",
+    "main.24b92acb.js.map": "/drolleco/static/js/main.24b92acb.js.map",
     "453.f29e1b10.chunk.js.map": "/drolleco/static/js/453.f29e1b10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26a5ac5d.css",
-    "static/js/main.a2b15a2c.js"
+    "static/css/main.8f90946a.css",
+    "static/js/main.24b92acb.js"
   ]
 }
